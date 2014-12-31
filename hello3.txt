@@ -1,4 +1,4 @@
 master
 debug
 vulcan
-push
+pusd
