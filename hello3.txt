@@ -1,8 +1,4 @@
-<<<<<<< HEAD
+
 master
-debug
 
 
-=======
-dev
->>>>>>> a02caf140f4f6ecfdf64ebf048a558efa7ce454e
