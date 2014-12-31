@@ -1,15 +1,4 @@
 master
 debug
 
-<<<<<<< HEAD
-aaa
-=======
-pusd
 
-pusvdvor
-pus
-c
-b7
-b7b7
-c7
->>>>>>> 13af189f9031b337e29cec534be8bab3ae7d9b11
