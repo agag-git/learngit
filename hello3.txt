@@ -1,12 +1,2 @@
-master
-debug
-vulcan
+b7b7b7b7b7
 
-pusd
-
-pusvdvor
-pus
-c
-b7
-b7b7
-c7
