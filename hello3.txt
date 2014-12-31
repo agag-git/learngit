@@ -1,20 +1,4 @@
 master
 debug
-<<<<<<< HEAD
 
-mae
-
-masterpul
-
-abc
-=======
-vulcan
-
-pusd
-
-pusvdvor
-pus
-c
-b7
-b7b7
->>>>>>> dd7071dd563cdc5a31737ff9b1817bba0d85ab56
+aaa
